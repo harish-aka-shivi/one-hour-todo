@@ -1,0 +1,14 @@
+.inputContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.toDoContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.todo-item-root {
+  display: flex;
+  flex-direction: row;
+}
